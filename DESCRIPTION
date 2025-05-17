@@ -2,8 +2,8 @@ Package: sgdGMF
 Type: Package
 Title: Estimation of Generalized Matrix Factorization Models via
         Stochastic Gradient Descent
-Version: 1.0
-Date: 2025-01-28
+Version: 1.0.1
+Date: 2025-05-17
 Authors@R: 
     c(person("Cristian", "Castiglione", email = "cristian_castiglione@libero.it", 
              role = c("aut","cre"), comment = c(ORCID = "0000-0001-5883-4890")),
@@ -26,11 +26,11 @@ BugReports: https://github.com/CristianCastiglione/sgdGMF/issues
 RoxygenNote: 7.2.3
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2025-02-12 10:42:15 UTC; crist
-Author: Cristian Castiglione [aut, cre]
-    (<https://orcid.org/0000-0001-5883-4890>),
-  Davide Risso [ctb] (<https://orcid.org/0000-0001-8508-5012>),
-  Alexandre Segers [ctb] (<https://orcid.org/0009-0004-2028-7595>)
+Packaged: 2025-05-17 12:50:04 UTC; crist
+Author: Cristian Castiglione [aut, cre] (ORCID:
+    <https://orcid.org/0000-0001-5883-4890>),
+  Davide Risso [ctb] (ORCID: <https://orcid.org/0000-0001-8508-5012>),
+  Alexandre Segers [ctb] (ORCID: <https://orcid.org/0009-0004-2028-7595>)
 Maintainer: Cristian Castiglione <cristian_castiglione@libero.it>
 Repository: CRAN
-Date/Publication: 2025-02-13 10:30:06 UTC
+Date/Publication: 2025-05-17 22:00:02 UTC
